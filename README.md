@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="logo.svg" alt="post" height="32">
+</p>
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│   / post                                                     │
-│   email that doesn't suck                                    │
-│                                                              │
 │   open source email platform                                 │
 │   send, receive, inbox — self-hostable                       │
 │                                                              │
